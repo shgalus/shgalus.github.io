@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['r',['r',['../structSHG_1_1Stock_1_1Sample__data.html#a04e2d09c4e4fd2205bf35aa49ad623b2',1,'SHG::Stock::Sample_data::r()'],['../structSHG_1_1Stock_1_1Select_1_1Series.html#a9542820826221b23155e1fdd1fa96bb2',1,'SHG::Stock::Select::Series::r()'],['../structSHG_1_1Integer__division.html#a00c1045ccecd2fd4ac0eb48e2e1cf747',1,'SHG::Integer_division::r()']]],
+  ['r2',['r2',['../structSHG_1_1StRDLR_1_1Data.html#a761e7884024b138fea62ed4d38030a16',1,'SHG::StRDLR::Data']]],
+  ['r2_5f',['r2_',['../classSHG_1_1OLS.html#a412222dc9568b12aa4e3a3e736d08563',1,'SHG::OLS']]],
+  ['rbar2_5f',['rbar2_',['../classSHG_1_1OLS.html#a5043ae9093ed6db07ae4f7b5c951d074',1,'SHG::OLS']]],
+  ['reclen',['reclen',['../classSHG_1_1Stock_1_1anonymous__namespace_02stock_8cc_03_1_1Rawprices.html#a2ad618f6d47b7b58d469d197c5f08cb5',1,'SHG::Stock::anonymous_namespace{stock.cc}::Rawprices::reclen()'],['../classSHG_1_1Stock_1_1anonymous__namespace_02stock_8cc_03_1_1Rawsplits.html#ae02ab22f242bb9faee09c9ba558d1634',1,'SHG::Stock::anonymous_namespace{stock.cc}::Rawsplits::reclen()']]],
+  ['replace_5fexact_5f0',['replace_exact_0',['../structSHG_1_1Stock_1_1Select.html#acdb3b94dd0b1540e173cc8858b1a3ff1',1,'SHG::Stock::Select']]],
+  ['res2',['res2',['../namespaceSHG_1_1Testing_1_1anonymous__namespace_02opdts_8cc_03.html#aae966c7dddbef757eae9782765cf91ce',1,'SHG::Testing::anonymous_namespace{opdts.cc}']]],
+  ['res3',['res3',['../namespaceSHG_1_1Testing_1_1anonymous__namespace_02opdts_8cc_03.html#a7f92a455127d1d2e5b9c90158eb6d5be',1,'SHG::Testing::anonymous_namespace{opdts.cc}']]],
+  ['res4',['res4',['../namespaceSHG_1_1Testing_1_1anonymous__namespace_02opdts_8cc_03.html#abfbe2cbc4b295b659122a676bb1139e9',1,'SHG::Testing::anonymous_namespace{opdts.cc}']]],
+  ['res_5f',['res_',['../classSHG_1_1BDS__test.html#a77b4c76bf6d8e230eeb08e81b24e0621',1,'SHG::BDS_test']]],
+  ['reserve',['reserve',['../structSHG_1_1Stock_1_1Sample__data.html#acee3fad77ffd4b7415b3535bfdc111eb',1,'SHG::Stock::Sample_data']]],
+  ['residuals_5f',['residuals_',['../classSHG_1_1OLS.html#a781df6e060f2153a89a1737986aa728d',1,'SHG::OLS']]],
+  ['result1',['result1',['../namespaceSHG_1_1Testing_1_1anonymous__namespace_02gsgts_8cc_03.html#a79985681af462e8e67705cc2e4d7ffc9',1,'SHG::Testing::anonymous_namespace{gsgts.cc}']]],
+  ['result2',['result2',['../namespaceSHG_1_1Testing_1_1anonymous__namespace_02gsgts_8cc_03.html#a46cf2c5f2992022d7a24fa6803a5e3fa',1,'SHG::Testing::anonymous_namespace{gsgts.cc}']]],
+  ['results',['results',['../namespaceSHG_1_1Testing_1_1anonymous__namespace_02opdts_8cc_03.html#a72267c3aa4eba06c99c69fdfa3d19e68',1,'SHG::Testing::anonymous_namespace{opdts.cc}']]],
+  ['rng',['rng',['../structSHG_1_1Stock_1_1Select.html#a4a63420b863fcec93477f9de8983fc30',1,'SHG::Stock::Select']]],
+  ['roman_5fmonth',['roman_month',['../classSHG_1_1Date.html#aa14e496f32729ae059f990fdf343c5ca',1,'SHG::Date']]],
+  ['rss_5f',['rss_',['../classSHG_1_1OLS.html#a7b8f7705a46a1946d046cb413aab79c5',1,'SHG::OLS']]]
+];

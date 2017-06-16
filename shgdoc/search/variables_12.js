@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['s',['S',['../structSHG_1_1SMC.html#afe1d2977c0ce90f2e7f7c09994936635',1,'SHG::SMC::S()'],['../namespaceSHG_1_1Testing_1_1anonymous__namespace_02smc_8cc_03.html#a8e9a671e6e9fc41210d6a2d37d002dab',1,'SHG::Testing::anonymous_namespace{smc.cc}::s()']]],
+  ['s_5f',['s_',['../classSHG_1_1Normal__hmm.html#aaefa32c173763ae6e192a7feb2bd4911',1,'SHG::Normal_hmm::s_()'],['../structSHG_1_1SMC.html#ac2b10d476346b27f6116fd99a2e24943',1,'SHG::SMC::s_()']]],
+  ['sdev_5f',['sdev_',['../classSHG_1_1Laplace__mixture.html#adbdcabb5480482f1f7b4120363c29599',1,'SHG::Laplace_mixture::sdev_()'],['../classSHG_1_1Normal__mixture.html#accf25ca78f36d2410a5385e12c3f6ec9',1,'SHG::Normal_mixture::sdev_()']]],
+  ['sdevb',['sdevb',['../structSHG_1_1StRDLR_1_1Data.html#a36aab33808cfc1053af63a9dd68ac63d',1,'SHG::StRDLR::Data']]],
+  ['sdevres',['sdevres',['../structSHG_1_1StRDLR_1_1Data.html#a2c9e2f4e5039241ccc1032afbd201114',1,'SHG::StRDLR::Data']]],
+  ['ser_5f',['ser_',['../classSHG_1_1OLS.html#aae655efda57babd69c6b832e0097e1f0',1,'SHG::OLS']]],
+  ['sfn',['sfn',['../structSHG_1_1Stock_1_1Select.html#ae47b0e7566d3d74b80271ea27a255429',1,'SHG::Stock::Select']]],
+  ['sigma',['sigma',['../classSHG_1_1Normal__hmm.html#a768071f89235d9ee3ad0c71f6e8f3806',1,'SHG::Normal_hmm::sigma()'],['../structSHG_1_1Unigaumixmod.html#a6921e3dd415962ce2819d4e337a3fa59',1,'SHG::Unigaumixmod::sigma()'],['../classSHG_1_1Normal__mixture.html#aea7e03b764f330a0ec5b2a9ddb8b5209',1,'SHG::Normal_mixture::sigma()'],['../structSHG_1_1Unideggaumix.html#a2e2a35a8fff57ff00c961bad842b8d25',1,'SHG::Unideggaumix::sigma()']]],
+  ['skew_5f',['skew_',['../classSHG_1_1Laplace__mixture.html#a9cc3a00565f47e2e8a7a71436507babb',1,'SHG::Laplace_mixture::skew_()'],['../classSHG_1_1Normal__mixture.html#af9436158fb8a3450065c96c0e8cd6d64',1,'SHG::Normal_mixture::skew_()']]],
+  ['sp500',['sp500',['../namespaceSHG_1_1Testing_1_1anonymous__namespace_02stock_8cc_03.html#aa2a3a0786d7c5b91638ed426c13f0dec',1,'SHG::Testing::anonymous_namespace{stock.cc}']]],
+  ['splits',['splits',['../namespaceSHG_1_1Testing_1_1anonymous__namespace_02stock_8cc_03.html#a401c5c1bd7b831aa15ea360f652af8dc',1,'SHG::Testing::anonymous_namespace{stock.cc}']]],
+  ['ssreg',['ssreg',['../structSHG_1_1StRDLR_1_1Data.html#a615c33d12ea426ce29843022dba46bad',1,'SHG::StRDLR::Data']]],
+  ['ssres',['ssres',['../structSHG_1_1StRDLR_1_1Data.html#a87c852eabf9fff7a20a00eaa08f2d61d',1,'SHG::StRDLR::Data']]],
+  ['start_5ftime',['start_time',['../classSHG_1_1Timer.html#a6fd033ae03fcc23e01c283896d6ddbb1',1,'SHG::Timer']]],
+  ['stat',['stat',['../structSHG_1_1BDS__test_1_1Result.html#af3944b1070bf9a1739506325ab0098e3',1,'SHG::BDS_test::Result']]],
+  ['status',['status',['../classSHG_1_1Simplex.html#aeeaa16166e23bebdad0866b510c7b272',1,'SHG::Simplex::status()'],['../structSHG_1_1Unideggaumix.html#a9f3c3c1ad33ae254048bf874a5d370c0',1,'SHG::Unideggaumix::status()']]],
+  ['std_5f',['std_',['../structSHG_1_1SMC.html#a6f24b8ca9b5264df4dab25c445a86a16',1,'SHG::SMC']]],
+  ['stddev_5fy_5f',['stddev_y_',['../classSHG_1_1OLS.html#a66451e463cb4ba1672416598c735cd46',1,'SHG::OLS']]],
+  ['stderr_5f',['stderr_',['../classSHG_1_1OLS.html#a050a278454fb5e321af8b619b7e8145e',1,'SHG::OLS']]]
+];
