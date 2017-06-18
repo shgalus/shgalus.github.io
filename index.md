@@ -10,7 +10,8 @@ GitHub](https://github.com/shgalus).
   Internet with one click.
 
 * [solitaire](https://github.com/shgalus/solitaire) — JavaScript
-  implementation of the solitaire game.
+  implementation of the solitaire game. A working copy can be found
+  [here](solitaire/solitaire.html).
 
 * [shgalus.github.io](https://github.com/shgalus/shgalus.github.io) —
   this page.
