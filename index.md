@@ -13,6 +13,11 @@ GitHub](https://github.com/shgalus).
   implementation of the solitaire game. A working copy can be found
   [here](solitaire/solitaire.html).
 
+* [skrabulec](https://github.com/shgalus/skrabulec) — JavaScript
+  implementation of the [SCRABBLE®](http://www.scrabble.com/) game
+  (Polish version). A working copy can be found
+  [here](skrabulec-0.1/skrabulec.html).
+
 * [shgalus.github.io](https://github.com/shgalus/shgalus.github.io) —
   this page.
 
