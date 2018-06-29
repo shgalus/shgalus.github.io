@@ -11,9 +11,12 @@ Internet with one click.
 implementation of the solitaire game. A working copy can be found
 [here](solitaire/solitaire.html).
 * [skrabulec](https://github.com/shgalus/skrabulec) — JavaScript
-implementation of the [SCRABBLE®](http://www.scrabble.com/) game
-(Polish version). A working copy can be found
-[here](skrabulec-0.11/skrabulec.html).
+implementation of the [SCRABBLE®](http://www.scrabble.com/) game. A
+working copy can be found [here](skrabulec-0.11/skrabulec.html).
+* [tangram](https://github.com/shgalus/tangram) — JavaScript
+implementation of the
+[Tangram puzzle](https://en.wikipedia.org/wiki/Tangram). A working
+copy can be found [here](tangram/tangram.html).
 * [shgalus.github.io](https://github.com/shgalus/shgalus.github.io) —
 this page.
 
