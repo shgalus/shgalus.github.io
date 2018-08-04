@@ -19,6 +19,8 @@ implementation of the
 copy can be found [here](tangram/tangram.html).
 * [Recfile](https://github.com/shgalus/recfile) — a Python
 implementation of record-jar and record-set formats.
+* [klienci](https://github.com/shgalus/klienci) — exercising C++ and
+Qt library.
 * [shgalus.github.io](https://github.com/shgalus/shgalus.github.io) —
 this page.
 
