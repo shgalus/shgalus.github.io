@@ -1,1 +1,1 @@
-shgalus.github.io
+Stanisław Galus' Home Page

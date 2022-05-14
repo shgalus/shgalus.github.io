@@ -1,0 +1,7 @@
+body {font: 12pt serif; color: black; background: white;
+  margin-left: 10%; margin-right: 10%;}
+h1, h2, h3, h4, h5, h6 {color: #900020; background: white;}
+h2.rozm {font-family: "Comic Sans MS", sans-serif;}
+p.footer {font-style: italic;}
+span.attention {font-style: italic; color: red; background: white;}
+div.new {color: black; background: yellow;}
